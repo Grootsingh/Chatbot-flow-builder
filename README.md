@@ -4,7 +4,7 @@ Welcome to Chatbot Flow Builder, where creating conversational flow diagrams for
 
 ## Try it Out! 🚀
 
-Chatbot Flow Builder is live and ready for you to use! Visit the website [here](#) and start building your chatbot flows today!
+Chatbot Flow Builder is live and ready for you to use! Visit the website [here](https://chatbot-flow-builder-mocha.vercel.app/) and start building your chatbot flows today!
 
 ## Screenshots 📸
 
