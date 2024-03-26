@@ -1,4 +1,4 @@
-# Chatbot Flow Builder <img src="./public/favicon.svg" alt="Screenshot" style="width:28px;"> 💬
+# Chatbot Flow Builder <img src="./public/favicon.svg" alt="Screenshot" style="width:30px;"> 💬
 
 Welcome to Chatbot Flow Builder, where creating conversational flow diagrams for your chatbots is as easy as sending a message! With this tool, you can effortlessly visualize the flow of conversations between text nodes, helping you craft the perfect chatbot interactions. Let's dive in and make your chatbot dreams a reality! 🎉
 
@@ -8,9 +8,8 @@ Chatbot Flow Builder is live and ready for you to use! Visit the website [here](
 
 ## Screenshots 📸
 
-Check out some screenshots of Chatbot Flow Builder in action:
+Check out Chatbot Flow Builder in action:
 
-![Screenshot](./public/screenshot/Screenshot.png)
 ![ScreenshotGIF](./public/screenshot/ScreenshotGIF.gif)
 
 ## Features 🚀
@@ -24,3 +23,11 @@ Check out some screenshots of Chatbot Flow Builder in action:
 - **TypeScript**: TypeScript adds some extra spice to JavaScript by providing type-checking capabilities. Say goodbye to those pesky runtime errors!
 - **React**: React is the bread and butter of building user interfaces. With its reusable UI components, creating complex web applications is a piece of cake!
 - **Tailwind CSS**: Tailwind CSS is like having a magical wand for styling. Say hello to rapid UI development without breaking a sweat!
+
+## Join the Fun 🎉
+
+Feeling inspired? We'd love to have you join us on this journey! While we're not accepting contributions at the moment, your feedback and suggestions are always welcome.
+
+## Give a Star ⭐
+
+If you find Chatbot Flow Builder exciting and useful, why not show your appreciation by giving it a star on GitHub? Your support means the world to us and helps spread the word about Chatbot Flow Builder's awesomeness!
